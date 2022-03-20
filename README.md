@@ -30,5 +30,5 @@
 
 | |  |
 |------------------|--------|
-|   ![](./img/emissions_10.png)    |    ![](./img/HepG2_10_overlap.png) |
-|   ![](./img/HepG2_10_RefSeqTES_neighborhood.png)       |  ![](./img/HepG2_10_RefSeqTSS_neighborhood.png)   |
+|   ![](./ChromHMM/emissions_10.png)    |    ![](./ChromHMM/HepG2_10_overlap.png) |
+|   ![](./ChromHMM/HepG2_10_RefSeqTES_neighborhood.png)       |  ![](./ChromHMM/HepG2_10_RefSeqTSS_neighborhood.png)   |
