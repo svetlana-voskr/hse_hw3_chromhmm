@@ -39,11 +39,11 @@
 |-----------|----------|------|----------|---------------------|
 |     1     |  Insulator  |  во всех, но чаще всего: <ul><li> H3K4me1 <li> H3K4me2 <li> H3K4me3 <li> H3K9ac <li> H3K27ac <li> H3K79me2  |  Чаще всего ассоциировано с <ul><li> RefSeqExon <li> RefSeqGene <li> RefSeqTSS <li> RefSeqTSS2kb </li> </li>  В меньшей степени с: <li> CpGIslands |        ![](./img/1.png)              |
 |     2     |  Insulator  |   почти не встречается, кроме: <li> H3K9ac  <li> H3K27ac |   Чаще всего ассоциировано с <ul><li> CpGIslands <li> RefSeqExon  <li> RefSeqTSS <li> RefSeqTSS2kb   |        ![](./img/2.png)              |
-|     3     |  Weak transcribed |  во всех, но чаще всего: <ul><li> H2AFZ <li> H3K4me1 <li> H3K4me2 <li> H3K4me3 <li> H3K9ac <li> H3K27ac <li> H3K79me2    |    |        ![](./img/3.png)              |
-|     4     |  Inactive/poised Promoter |   Встречается почти во всех, но чаще всего:  <li> H3K4me1  |    |        ![](./img/4.png)              |
-|     5     |  Transcribed |   Во всех, но чаще всего:  <li> H3K4me1 <li> H3K4me2 <li> H3K27ac <li> H3K79me2 <li> H4K20me1|    |        ![](./img/5_.png)              |
-|     6     |  Transcribed  |   Во всех, но чаще: <li> H3K4me1 <li> H3K79me2 <li> H4K20me1  |    |        ![](./img/6.png)              |
-|     7     |  Active Promoter |   п  |    |        ![](./img/7.png)              |
+|     3     |  Weak transcribed |  во всех, но чаще всего: <ul><li> H2AFZ <li> H3K4me1 <li> H3K4me2 <li> H3K4me3 <li> H3K9ac <li> H3K27ac <li> H3K79me2    |  Чаще всего ассоциировано с  <li> RefSeqTSS <li> RefSeqTSS2kb   |        ![](./img/3.png)              |
+|     4     |  Inactive/poised Promoter |   Встречается почти во всех, но чаще всего:  <li> H3K4me1  |  Чаще всего ассоциировано с  <li> RefSeqTSS <li> LaminB1lads   |        ![](./img/4.png)              |
+|     5     |  Transcribed |   Во всех, но чаще всего:  <li> H3K4me1 <li> H3K4me2 <li> H3K27ac <li> H3K79me2 <li> H4K20me1|  Чаще всего ассоциировано с <li> RefSeqGene <li> RefSeqTSS  |        ![](./img/5_.png)              |
+|     6     |  Transcribed  |   Во всех, но чаще: <li> H3K4me1 <li> H3K79me2 <li> H4K20me1  | Чаще всего ассоциировано с <ul><li> RefSeqExon <li> RefSeqGene <li> RefSeqTSS |        ![](./img/6.png)              |
+|     7     |  Active Promoter |     |    |        ![](./img/7.png)              |
 |     8     |  Strong enhancer |   Редко встрчается, наиболее часто у: <li> H3K9me3 <li> H3K27me3  |    |        ![](./img/8.png)              |
 |     9     |  Weak/poised enhancer |   Почти не встречается   |    |        ![](./img/9.png)              |
 |    10     |  Inactive/poised Promoter  |   Почти не встречается, кроме: <li> H3K27me3  |    |        ![](./img/10.png)              |
