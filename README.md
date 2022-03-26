@@ -35,16 +35,16 @@
 
 ## Эпигетические типы
 
-| Состояние | Название |Встречаемость в гистоновых модификациях| Описание | Изображение из USCC |
+| Состояние | Эпигенетический тип |Встречаемость в гистоновых модификациях| Описание | Изображение из USCC |
 |-----------|----------|------|----------|---------------------|
-|     1     |          |  во всех, но чаще всего: <ul><li> H3K4me1 <li> H3K4me2 <li> H3K4me3 <li> H3K9ac <li> H3K27ac <li> H3K79me2  |    |        ![](./img/1.png)              |
-|     2     |          |   почти  встречается, кроме: <li> H3K9ac  <li> H3K27ac |    |        ![](./img/2.png)              |
-|     3     |          |  во всех, но чаще всего: <ul><li> H2AFZ <li> H3K4me1 <li> H3K4me2 <li> H3K4me3 <li> H3K9ac <li> H3K27ac <li> H3K79me2    |    |        ![](./img/3.png)              |
-|     4     |          |   Встречается почти во всех, но чаще всего:  <li> H3K4me1  |    |        ![](./img/4.png)              |
-|     5     |          |   Во всех, но чаще всего:  <li> H3K4me1 <li> H3K4me2 <li> H3K27ac <li> H3K79me2 <li> H4K20me1|    |        ![](./img/5_.png)              |
-|     6     |          |   Во всех, но чаще: <li> H3K4me1 <li> H3K79me2 <li> H4K20me1  |    |        ![](./img/6.png)              |
-|     7     |          |   Встречается во всех   |    |        ![](./img/7.png)              |
-|     8     |          |   Редко встрчается, наиболее часто у: <li> H3K9me3 <li> H3K27me3  |    |        ![](./img/8.png)              |
-|     9     |          |   Почти не встречается   |    |        ![](./img/9.png)              |
-|    10     |          |   Почти не встречается, кроме: <li> H3K27me3  |    |        ![](./img/10.png)              |
+|     1     |  Insulator  |  во всех, но чаще всего: <ul><li> H3K4me1 <li> H3K4me2 <li> H3K4me3 <li> H3K9ac <li> H3K27ac <li> H3K79me2  |    |        ![](./img/1.png)              |
+|     2     |  Insulator  |   почти  встречается, кроме: <li> H3K9ac  <li> H3K27ac |    |        ![](./img/2.png)              |
+|     3     |  Weak transcribed |  во всех, но чаще всего: <ul><li> H2AFZ <li> H3K4me1 <li> H3K4me2 <li> H3K4me3 <li> H3K9ac <li> H3K27ac <li> H3K79me2    |    |        ![](./img/3.png)              |
+|     4     |  Inactive/poised Promoter |   Встречается почти во всех, но чаще всего:  <li> H3K4me1  |    |        ![](./img/4.png)              |
+|     5     |  Transcribed |   Во всех, но чаще всего:  <li> H3K4me1 <li> H3K4me2 <li> H3K27ac <li> H3K79me2 <li> H4K20me1|    |        ![](./img/5_.png)              |
+|     6     |  Transcribed  |   Во всех, но чаще: <li> H3K4me1 <li> H3K79me2 <li> H4K20me1  |    |        ![](./img/6.png)              |
+|     7     |  Active Promoter |   Встречается во всех   |    |        ![](./img/7.png)              |
+|     8     |  Strong enhancer |   Редко встрчается, наиболее часто у: <li> H3K9me3 <li> H3K27me3  |    |        ![](./img/8.png)              |
+|     9     |  Weak/poised enhancer |   Почти не встречается   |    |        ![](./img/9.png)              |
+|    10     |  Inactive/poised Promoter  |   Почти не встречается, кроме: <li> H3K27me3  |    |        ![](./img/10.png)              |
 
