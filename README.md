@@ -52,7 +52,7 @@
  ### Пример:
   ![](./img/5.png) 
 #  Часть 2
-  
+  ![](./img/part2.png) 
 # Код
   ### Создание файла cellmarkfiletable.txt
   ```
@@ -79,8 +79,9 @@ with open(f'{path}cellmarkfiletable.txt', 'a') as the_file:
   ```
   ### Для части 2
   ```
-  types = ['Insulator', 'Insulator', 'Weak transcribed', 'Inactive/poised Promoter', 'Transcribed', 'Transcribed', 'Active Promoter', 'Strong enhancer',
-         'Weak/poised enhancer', 'Inactive/poised Promoter']
+types = ['Insulator', 'Insulator', 'Weak_transcribed', 'Inactive/poised_Promoter', 'Transcribed', 'Transcribed', 'Active_Promoter', 'Strong_enhancer',
+         'Weak/poised_enhancer', 'Inactive/poised_Promoter']
+
 with open(f'/content/learnData/HepG2_10_dense.bed', 'r') as f:
   with open(f'/content/learnData/HepG2_10_dense_new.bed', 'a') as f_new:
     lines = f.readlines()
