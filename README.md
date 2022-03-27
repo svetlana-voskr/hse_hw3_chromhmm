@@ -38,16 +38,16 @@
 
 | Состояние | Эпигенетический тип |Встречаемость в гистоновых модификациях| Описание | Изображение из USCC |
 |-----------|----------|------|----------|---------------------|
-|     1     |  Promoter  |  во всех, но чаще всего: <ul><li> H3K4me1 <li> H3K4me2 <li> H3K4me3 <li> H3K9ac <li> H3K27ac <li> H3K79me2  | <ul> Данное состояние попадает на экзон <ul> Показывает высокий сигнал <ul> Чаще всего ассоциировано с <ul><li> RefSeqExon <li> RefSeqGene <li> RefSeqTES <li> RefSeqTSS2kb </li> </li>  В меньшей степени с: <li> CpGIslands |        ![](./img/1.png)              |
-|     2     |  Insulator  |   почти не встречается, кроме: <li> H3K9ac  <li> H3K27ac |   Чаще всего ассоциировано с <ul><li> CpGIslands <li> RefSeqExon <li> RefSeqTES <li> RefSeqTSS <li> RefSeqTSS2kb   |   ![](./img/2.png)        |
-|     3     |  Weak transcribed |  во всех, но чаще всего: <ul><li> H2AFZ <li> H3K4me1 <li> H3K4me2 <li> H3K4me3 <li> H3K9ac <li> H3K27ac <li> H3K79me2    |  Чаще всего ассоциировано с  <li> RefSeqTES <li> RefSeqTSS2kb   |        ![](./img/3.png)              |
-|     4     |  Repressed |   Встречается почти во всех, но чаще всего:  <li> H3K4me1  |  <ul> Данное состояние нe попало на ген или попала на интрон и экзон <li> Показывает низкий сигнал <li> Чаще всего ассоциировано с  <li> RefSeqTES <li> LaminB1lads   |        ![](./img/4.png)              |
-|     5     |  Transcribed |   Во всех, но чаще всего:  <li> H3K4me1 <li> H3K4me2 <li> H3K27ac <li> H3K79me2 <li> H4K20me1|  Чаще всего ассоциировано с <li> RefSeqGene <li> RefSeqTES  |        ![](./img/5_.png)              |
-|     6     |  Transcribed  |   Во всех, но чаще: <li> H3K4me1 <li> H3K79me2 <li> H4K20me1  | Чаще всего ассоциировано с <ul><li> RefSeqExon <li> RefSeqGene <li> RefSeqTSS |        ![](./img/6.png)              |
-|     7     |  Heterochromatin |  Встречается во всех   |  <li> Попадает в интрон гена <li> Слабый сигнал <li> Чаще всего ассоциировано с <ul><li> RefSeqExon <li> RefSeqGene <li> RefSeqTSS  |        ![](./img/7.png)              |
-|     8     |  Strong enhancer |   Редко встречается, наиболее часто у: <li> H3K9me3 <li> H3K27me3  |  Чаще всего ассоциировано с LaminB1lads    |        ![](./img/8.png)              |
-|     9     |  Repressed |   Почти не встречается   |  <ul> Не попало на ген <ul> Чаще всего ассоциировано с  <li> Genome <li> LaminB1lads    |        ![](./img/9.png)              |
-|    10     |  Repressed  |   Почти не встречается, кроме: <li> H3K27me3  |  <ul> Не попало на ген <ul> Чаще всего ассоциировано с  <li> RefSeqTES <li> LaminB1lads    |        ![](./img/10.png)              |
+|     1     |  Promoter  |  во всех, но чаще всего: <ul><li> H3K4me1 <li> H3K4me2 <li> H3K4me3 <li> H3K9ac <li> H3K27ac <li> H3K79me2  | <li> Данное состояние попадает на экзон <li> Показывает высокий сигнал <li> Чаще всего ассоциировано с <ul><li> RefSeqExon <li> RefSeqGene <li> RefSeqTES <li> RefSeqTSS2kb </li> </li>  В меньшей степени с: <li> CpGIslands |        ![](./img/1.png)              |
+|     2     |  Enhancer |   почти не встречается, кроме: <li> H3K9ac  <li> H3K27ac |  li> Данное состояние частично попадает на экзон и интрон li> Чаще всего ассоциировано с <ul><li> CpGIslands <li> RefSeqExon <li> RefSeqTES <li> RefSeqTSS <li> RefSeqTSS2kb   |   ![](./img/2.png)        |
+|     3     |  Enhancer |  <li> Данное состояние нe попало на ген или попала на интрон и экзон <li>  показыват высокий сигнал во всех, но чаще всего: <ul><li> H2AFZ <li> H3K4me1 <li> H3K4me2 <li> H3K4me3 <li> H3K9ac <li> H3K27ac <li> H3K79me2    |  Чаще всего ассоциировано с  <li> RefSeqTES <li> RefSeqTSS2kb   |        ![](./img/3.png)              |
+|     4     |  Repressed |   Встречается почти во всех, но чаще всего:  <li> H3K4me1  |  <li> Данное состояние нe попало на ген или попала на интрон и экзон <li> Показывает низкий сигнал <li> Чаще всего ассоциировано с  <ul><li> RefSeqTES <li> LaminB1lads   |        ![](./img/4.png)              |
+|     5     |  Enhancer |   Во всех, но чаще всего:  <li> H3K4me1 <li> H3K4me2 <li> H3K27ac <li> H3K79me2 <li> H4K20me1|  <li> Данное состояние попала на интрон <li>  показыват высокий сигнал <li> Чаще всего ассоциировано с <ul><li> RefSeqGene <li> RefSeqTES  |        ![](./img/5_.png)              |
+|     6     |  Heterochromatin  |   Во всех, но чаще: <li> H3K4me1 <li> H3K79me2 <li> H4K20me1  | <li> Данное состояние попадает на интрон гена <li> Показывает низкий сигнал <li> Чаще всего ассоциировано с <ul><li> RefSeqExon <li> RefSeqGene <li> RefSeqTSS |        ![](./img/6.png)              |
+|     7     |  Transcribed |  Встречается во всех   |  <li> Попадает в интрон гена <li> Очень слабый сигнал <li> Чаще всего ассоциировано с <ul><li> RefSeqExon <li> RefSeqGene <li> RefSeqTSS  |        ![](./img/7.png)              |
+|     8     |  Repressed |   Редко встречается, наиболее часто у: <li> H3K9me3 <li> H3K27me3  | <li> Не попало на ген <li> Чаще всего ассоциировано с LaminB1lads    |        ![](./img/8.png)              |
+|     9     |  Repressed |   Почти не встречается   |  <li> Не попало на ген <li> Чаще всего ассоциировано с  <ul><li> Genome <li> LaminB1lads    |        ![](./img/9.png)              |
+|    10     |  Repressed  |   Почти не встречается, кроме: <li> H3K27me3  |  <li> Не попало на ген <li> Чаще всего ассоциировано с  <ul><li> RefSeqTES <li> LaminB1lads    |        ![](./img/10.png)              |
 
  ### Пример:
   ![](./img/5.png) 
@@ -79,8 +79,8 @@ with open(f'{path}cellmarkfiletable.txt', 'a') as the_file:
   ```
   ### Для части 2
   ```
-types = ['Insulator', 'Insulator', 'Weak_transcribed', 'Inactive/poised_Promoter', 'Transcribed', 'Transcribed', 'Active_Promoter', 'Strong_enhancer',
-         'Weak/poised_enhancer', 'Inactive/poised_Promoter']
+types = ['Promoter', 'Enhancer', 'Enhancer', 'Repressed', 'Enhancer',  'Heterochromatin', 'Transcribed', 'Repressed',
+         'Repressed', 'Repressed']
 
 with open(f'/content/learnData/HepG2_10_dense.bed', 'r') as f:
   with open(f'/content/learnData/HepG2_10_dense_new.bed', 'a') as f_new:
